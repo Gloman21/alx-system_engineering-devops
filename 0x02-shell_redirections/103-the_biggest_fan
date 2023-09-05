@@ -1,0 +1,2 @@
+#!/bin/bash
+./parse_web_logs.sh
